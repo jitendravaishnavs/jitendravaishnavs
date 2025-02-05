@@ -1,4 +1,3 @@
-<img src="TEch Jitendra nadol.png" alt="Github Banner" width="100%"/>
 # 💫 About Me:
 I'm currently working on Next.js & flutter<br>I'm looking for help with Kafka and its integration in large-scale applications.<br>I'm currently learning Python + Dsa  along with Kafka<br>Full Stack development using React, Next.js, Flutter, Laravel, MongoDB, Node.js, Python, and Django.
 
